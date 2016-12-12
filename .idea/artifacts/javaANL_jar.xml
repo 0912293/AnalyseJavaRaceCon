@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="javaANL:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/javaANL_jar</output-path>
+    <root id="archive" name="javaANL.jar">
+      <element id="module-output" name="javaANL" />
+    </root>
+  </artifact>
+</component>
