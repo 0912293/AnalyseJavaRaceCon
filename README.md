@@ -1,2 +1,2 @@
 # AnalyseJavaRaceCon
-# Possibly the worst written application e?
+# Possibly the worst written application ever?
